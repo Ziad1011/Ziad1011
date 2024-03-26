@@ -1,16 +1,24 @@
 ### Hi there 👋
 
-<!--
-**Ziad1011/Ziad1011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About Me
 
-Here are some ideas to get you started:
+## Introduction
+My name is Ziad Nader Omar, and I'm a Frontend web developer passionate about building responsive web pages with various technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies
+I primarily work with the following technologies:
+- HTML
+- CSS
+- JavaScript
+- jQuery
+- Google Firebase
+- Bootstrap
+- React.js (currently working to expertise it)
+
+## Work Ethic
+I have a strong work ethic and am always eager to improve myself. I'm dedicated to learning new skills and technologies to stay competitive in the field of web development.
+
+---
+
+Feel free to reach out to me if you have any questions or opportunities for collaboration!
+
