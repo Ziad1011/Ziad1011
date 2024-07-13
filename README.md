@@ -14,7 +14,8 @@ I primarily work with the following technologies:
 - Google Firebase
 - Bootstrap
 - React.js (currently working to expertise it)
-
+- Figma 
+  
 ## Work Ethic
 I have a strong work ethic and am always eager to improve myself. I'm dedicated to learning new skills and technologies to stay competitive in the field of web development.
 
